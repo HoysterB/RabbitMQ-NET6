@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "euzXNj5lruWpyfHk43kenC9EwLjm2ow9KRUhELvC6ezIiMsVV5qKq8bRqaHJBqctM6V3sDS+tyNdP/wTZkvCIg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\RabbitMQ-NET6\\src\\AppOrderWorker\\AppOrderWorker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ataum\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "C:\\Users\\ataum\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\ataum\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
